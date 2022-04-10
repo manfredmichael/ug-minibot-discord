@@ -1,0 +1,5 @@
+bot-data.json
+credentials.json
+token.pickle
+.env
+__pycache__/*
