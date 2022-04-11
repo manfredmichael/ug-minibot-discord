@@ -20,6 +20,7 @@ Ketik `#help` untuk mulai!
 2. Let the bot reminds you your deadlines!
 
 <div align="center">
+  
 ## Bot Preview
   
 ![](https://github.com/manfredmichael/ug-minibot-discord/blob/main/imgs/guide1.png?raw=true)
