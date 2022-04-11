@@ -1,7 +1,7 @@
 <div align="center">
   
 # UG Minibot
-##### An awesome discord bot to help Gundarians do their vclasses.
+##### An awesome discord bot to help Gundarians do their vclasses. Currently helping 50+ discord servers.
 
 ## [Invite Link](https://bit.ly/ug-minibot)
   
