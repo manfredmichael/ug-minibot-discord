@@ -21,6 +21,7 @@ Ketik `#help` untuk mulai!
 
 <div align="center">
 ## Bot Preview
+  
 ![](https://github.com/manfredmichael/ug-minibot-discord/blob/main/imgs/guide1.png?raw=true)
 ![](https://github.com/manfredmichael/ug-minibot-discord/blob/main/imgs/guide2.png?raw=true)
 ![](https://github.com/manfredmichael/ug-minibot-discord/blob/main/imgs/guide3.png?raw=true)
