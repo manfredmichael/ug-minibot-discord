@@ -13,11 +13,12 @@ Ketik `#help` untuk mulai!
 ## ⇁ The Problems:
 1. Your lecturer uploads assignments randomly, and you gotta check Vclass all the time.
 2. You keep forgetting your vclass because nobody reminds you.
-4. Your GPA drops drastically because you keep missing assignments (mine drop by 6 because of this!)
+4. Your GPA drops drastically because you keep missing assignments
 
 ## ⇁  The Solutions:
 1. Let the bot check your Vclass assignments everyday!
 2. Let the bot reminds you your deadlines!
+3. Let the bot helps you pump your GPA (mine increased by 3 because of this!)
 
 <div align="center">
   
