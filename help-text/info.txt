@@ -1,0 +1,10 @@
+UPDATE:
+-- baak di disable dulu
+-- `vclass` bisa disingkat `vc`, `vclass incoming` bisa disingkat `vci`
+-- help menggunakan pagination (kece)
+-- remind list sekarang di sort berdasarkan due date
+-- new easter egg reply
+-- bot menyapa ketika di invite ke server
+
+*bot invite link*: https://www.bit.ly/ug-minibot
+

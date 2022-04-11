@@ -1,0 +1,8 @@
+**SET**
+`[p]set class <nama kelas>`: *registrasi kelas user*
+`[p]set prefix <prefix baru>`: *ganti prefix*
+`[p]set channel <daftar nama channel>`: *tentukan channel aktif bot (bisa lebih dari 1)*
+`[p]set channel list`: *lihat channel aktif bot*
+`[p]set row <jumlah>`: *tentukan batas output pencarian baak*
+
+:orange_circle:`vclass`  :blue_circle:`baak`  :green_circle:`remind`  :white_circle:`set`

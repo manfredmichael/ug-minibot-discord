@@ -1,0 +1,17 @@
+:orange_circle:   **VCLASS**
+`[p]vclass <nama matkul>` <-lihat daftar tugas matkul
+`[p]vclass incoming`      <-lihat semua deadline
+:blue_circle:   **BAAK**
+`[p]baak wawan`           <-cari data diri dengan nama
+`[p]baak 1ia01`			  <-cari data diri dengan kelas
+:green_circle:   **REMIND**
+`[p]remind list`          <-lihat semua reminder
+`[p]remind reset`         <-reset reminder
+:white_circle:   **SET**
+`[p]set class 1ia01`      <-setting kelas user
+`[p]set channel <` 		  <-setting channel bot
+:purple_circle:   **OTHER**
+`[p]help`                 <-lihat panduan command
+`[p]info`				  <-lihat invite link
+
+* **KLIK REACTION** di bawah untuk melihat semua command! *

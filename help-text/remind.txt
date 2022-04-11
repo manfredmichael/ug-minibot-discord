@@ -1,0 +1,8 @@
+**REMIND**
+`[p]remind list`: *lihat daftar reminder*
+`[p]remind reset`: *reset reminder*
+`[p]remind remove <i>`: *hapus reminder ke-`i`*
+`[p]remind channel <channel>`: *tentukan channel untuk reminder*
+
+
+:orange_circle:`vclass`  :blue_circle:`baak`  :green_circle:`remind`  :white_circle:`set`

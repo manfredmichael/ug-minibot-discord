@@ -1,0 +1,8 @@
+**VCLASS**
+`[p]vclass incoming`: *lihat deadline tugas terdekat*
+`[p]vclass <nama pelajaran>`: *lihat tugas dari pelajaran*
+`[p]vclass list`: *lihat daftar pelajaran*
+`[p]vclass dosen <nama dosen>`: *cari kelas dengan dosen yang sama*
+
+
+:orange_circle:`vclass`  :blue_circle:`baak`  :green_circle:`remind`  :white_circle:`set`

@@ -1,0 +1,33 @@
+:orange_circle:   **VCLASS**
+course: *lihat tugas pelajaran*
+incoming: *lihat tugas terdekat*
+lecturer: *cari kelas dengan dosen yang sama*
+:blue_circle:   **BAAK**
+search: *cari nama, kelas, npm mahasiswa*
+:white_circle:   **SET**
+row: *ubah batas baris output*
+prefix: *ubah prefix bot*
+class: *registrasi kelas user*
+channel: *tentukan channel aktif bot*
+:green_circle:   **REMIND**
+list: *lihat daftar reminder*
+remove: *hapus reminder ke-*`i`
+reset: *hapus semua reminder*
+channel: *tentukan channel reminder*
+:purple_circle:   **OTHER**
+help: *lihat panduan*
+info: *lihat info bot*
+
+*Invite link: https://www.bit.ly/ugminibot*
+
+
+`ex:`
+```
+{}vclass course osk         {}vclass course list
+{}vclass lecturer tatang    {}vclass lecturer list
+{}vclass incoming           {}baak search 1ia01
+{}set class 1ia01           {}set channel #general
+{}set channel reset         {}set channel list
+{}remind channel #general   {}remind remove 3
+{}remind channel list       {}remind reset
+```

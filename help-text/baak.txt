@@ -1,0 +1,8 @@
+**BAAK**
+`[p]baak <nama/kelas/npm>`: *cari data mahasiswa tingkat 2*
+
+
+
+
+
+:orange_circle:`vclass`  :blue_circle:`baak`  :green_circle:`remind`  :white_circle:`set`
