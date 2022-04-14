@@ -8,6 +8,8 @@
 "Halo guys, UG Minibot disini! Aku adalah bot scrapping yang bisa menyajikan informasi dari berbagai website gunadarma. Saat ini aku sudah bisa ambilkan data mahasiswa dari BAAK hingga info deadline Vclass secara automatis. Sebentar lagi aku bisa ambil jadwal ilab, labti, dan lepkom kalian supaya aku bisa mengingatkan kalian (reminder). Jadi, anak gunadarma ga perlu khawatir kelupaan tugas lagi"
 
 Ketik `#help` untuk mulai!
+  
+![](https://github.com/manfredmichael/ug-minibot-discord/blob/main/preview.gif?raw=true)
 </div>
 
 ## ⇁ The Problems:
