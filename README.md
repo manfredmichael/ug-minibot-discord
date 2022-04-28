@@ -18,7 +18,7 @@ Ketik `#help` untuk mulai!
 ## ⇁  The Solutions:
 1. Let the bot check your Vclass assignments everyday!
 2. Let the bot reminds you your deadlines!
-3. Let the bot helps you pump your GPA (mine increased by 3 because of this!)
+3. Let the bot helps you pump your GPA (_mine increased by 3 because of this!_)
 
 <div align="center">
   
